@@ -1,48 +1,30 @@
-<h1 align="center">Luka Castiñeira</h1>
+# Luka Castiñeira
 
-<p align="center">
-Estudiante de Licenciatura en Sistemas, APU y ATIC.
+Estudiante de **Licenciatura en Sistemas**, **Analista Programador Universitario** y **Analista en Tecnologías de la Información y la Comunicación** en la Facultad de Informática de la UNLP.
+
+---
+
+## Primer Año
+
+<p>
+  <a href="https://github.com/Lukacastineira/CADP-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukacastineira&repo=CADP-&theme=tokyonight&border_color=ff0000">
+  </a>
+  <a href="https://github.com/Lukacastineira/Arquitectura-de-Computadoras">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukacastineira&repo=Arquitectura-de-Computadoras&theme=tokyonight&border_color=ff0000">
+  </a>
+  <a href="https://github.com/Lukacastineira/Taller-de-Programacion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukacastineira&repo=Taller-de-Programacion&theme=tokyonight&border_color=ff0000">
+  </a>
 </p>
 
----
+## Segundo Año
 
-## 📘 Primer Año
-
-<table>
-  <tr>
-    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
-      <a href="https://github.com/Lukacastineira/CADP-" style="text-decoration: none; color: white;">
-        CADP
-      </a>
-    </td>
-    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
-      <a href="https://github.com/Lukacastineira/Arquitectura-de-Computadoras" style="text-decoration: none; color: white;">
-        Arquitectura de Computadoras
-      </a>
-    </td>
-    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
-      <a href="https://github.com/Lukacastineira/Taller-de-Programacion" style="text-decoration: none; color: white;">
-        Taller de Programación
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📗 Segundo Año
-
-<table>
-  <tr>
-    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
-      <a href="https://github.com/Lukacastineira/Seminario-JS" style="text-decoration: none; color: white;">
-        Seminario JS
-      </a>
-    </td>
-    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
-      <a href="https://github.com/Lukacastineira/AYED" style="text-decoration: none; color: white;">
-        AYED
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/Lukacastineira/AYED">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukacastineira&repo=AYED&theme=tokyonight&border_color=ff0000">
+  </a>
+  <a href="https://github.com/Lukacastineira/Seminario-JS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukacastineira&repo=Seminario-JS&theme=tokyonight&border_color=ff0000">
+  </a>
+</p>
