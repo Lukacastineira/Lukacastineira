@@ -27,4 +27,7 @@ Estudiante de **Licenciatura en Sistemas**, **Analista Programador Universitario
   <a href="https://github.com/Lukacastineira/Seminario-JS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukacastineira&repo=Seminario-JS&theme=tokyonight&border_color=ff0000">
   </a>
+  <a href="https://github.com/Lukacastineira/FOD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukacastineira&repo=FOD&theme=tokyonight&border_color=ff0000">
+  </a>
 </p>
