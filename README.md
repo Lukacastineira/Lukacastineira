@@ -1,42 +1,48 @@
-# Luka Castiñeira
+<h1 align="center">Luka Castiñeira</h1>
 
-Estudiante de Licenciatura en Sistemas, Analista Programador Universitario y Analista en Tecnologías de la Información y la Comunicación en la Facultad de Informática de la UNLP.
+<p align="center">
+Estudiante de Licenciatura en Sistemas, APU y ATIC.
+</p>
 
 ---
 
-## Primer Año
+## 📘 Primer Año
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<table>
+  <tr>
+    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
+      <a href="https://github.com/Lukacastineira/CADP-" style="text-decoration: none; color: white;">
+        CADP
+      </a>
+    </td>
+    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
+      <a href="https://github.com/Lukacastineira/Arquitectura-de-Computadoras" style="text-decoration: none; color: white;">
+        Arquitectura de Computadoras
+      </a>
+    </td>
+    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
+      <a href="https://github.com/Lukacastineira/Taller-de-Programacion" style="text-decoration: none; color: white;">
+        Taller de Programación
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/Lukacastineira/CADP-" style="border: 2px solid #e74c3c; padding: 10px; border-radius: 8px; text-decoration: none; color: inherit;">
-  <strong>CADP</strong><br>
-  Lenguaje: Pascal
-</a>
+---
 
-<a href="https://github.com/Lukacastineira/Arquitectura-de-Computadoras" style="border: 2px solid #e74c3c; padding: 10px; border-radius: 8px; text-decoration: none; color: inherit;">
-  <strong>Arquitectura de Computadoras</strong><br>
-  Lenguaje: Assembly
-</a>
+## 📗 Segundo Año
 
-<a href="https://github.com/Lukacastineira/Taller-de-Programacion" style="border: 2px solid #e74c3c; padding: 10px; border-radius: 8px; text-decoration: none; color: inherit;">
-  <strong>Taller de Programación</strong><br>
-  Lenguaje: Java
-</a>
-
-</div>
-
-## Segundo Año
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-<a href="https://github.com/Lukacastineira/Seminario-JS" style="border: 2px solid #e74c3c; padding: 10px; border-radius: 8px; text-decoration: none; color: inherit;">
-  <strong>Seminario JS</strong><br>
-  Lenguaje: JavaScript
-</a>
-
-<a href="https://github.com/Lukacastineira/AYED" style="border: 2px solid #e74c3c; padding: 10px; border-radius: 8px; text-decoration: none; color: inherit;">
-  <strong>AYED</strong><br>
-  Lenguaje: Java
-</a>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
+      <a href="https://github.com/Lukacastineira/Seminario-JS" style="text-decoration: none; color: white;">
+        Seminario JS
+      </a>
+    </td>
+    <td align="center" width="200" height="100" style="border: 2px solid #e74c3c; background-color: #1e1e1e;">
+      <a href="https://github.com/Lukacastineira/AYED" style="text-decoration: none; color: white;">
+        AYED
+      </a>
+    </td>
+  </tr>
+</table>
